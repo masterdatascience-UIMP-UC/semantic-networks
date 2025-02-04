@@ -17,13 +17,13 @@ D -> J [ label = "subclase_de"];
 F -> J [ label = "subclase_de"];
 
 
-A [label="Dumbo"];
+A [label="dumbo"];
 B [label="Elefante"];
 C [label="Macho"];
 D [label="Ballena"];
 E [label="Gris"];
 F [label="Delfín"];
-G [label="Mrs. Jumbo"];
+G [label="mrsJumbo"];
 H [label="Hembra"];
 I [label="Animal"];
 J [label="Mamífero"];

@@ -22,16 +22,16 @@ label = "Sin problema"
 
 A [label="Gorrión"];
 B [label="Pájaro"];
-C [label="Alas"];
+C [label="alas"];
 D [label="Especie en observación"];
-E [label="Biólogos"];
-g [label="Mi gorrión"];
+E [label="biólogos"];
+g [label="miGorrión"];
 
 F [label="Gorrión"];
 G [label="Pájaro"];
-H [label="Alas"];
+H [label="alas"];
 I [label="Especie en observación"];
-J [label="Biólogos"];
-h [label="Mi gorrión"];
+J [label="biólogos"];
+h [label="miGorrión"];
 
 }

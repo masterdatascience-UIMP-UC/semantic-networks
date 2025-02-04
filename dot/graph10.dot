@@ -8,11 +8,11 @@ B -> C [ label = "color"];
 D -> E [ label = "color"];
 
 
-A [label="Maguila"];
+A [label="maguila"];
 B [label="Gorila"];
-C [label="Marrón"];
-D [label="Copito de nieve"];
-E [label="Blanco"];
+C [label="marrón"];
+D [label="copitoDeNieve"];
+E [label="blanco"];
 
 
 }
